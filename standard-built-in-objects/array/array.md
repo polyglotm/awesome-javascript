@@ -16,7 +16,7 @@
 - Array.prototype.filter()
 - Array.prototype.find()
 - Array.prototype.findIndex()
-- Array.prototype.flat()
+- [Array.prototype.flat()](./array-prototype-flat/array-prototype-flat.md)
 - Array.prototype.flatMap()
 - Array.prototype.forEach()
 - Array.from()
